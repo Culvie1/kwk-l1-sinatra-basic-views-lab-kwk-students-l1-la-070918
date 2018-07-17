@@ -7,9 +7,4 @@ get "/" do
 end
 end
 
-class Index < Sinatra::Base 
-  
-  get "/" do
-    rb:app
-  end 
-end 
+ 
